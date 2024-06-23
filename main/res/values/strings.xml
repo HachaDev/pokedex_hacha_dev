@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Gamma26Pokedex2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pokemon_inicio">Pokemon Inicio</string>
+    <string name="welcome_to_pokeadridex">WELCOME TO POKEADRIDEX</string>
+    <string name="click_to_search">CLICK TO SEARCH</string>
+    <string name="fotografia">Fotografia</string>
+    <string name="type">Type</string>
+    <string name="hachadev">HachaDev</string>
+    <string name="click_for_search">Click for search</string>
+    <string name="stadistics">Stadistics</string>
+    <string name="click_in_the_browser">Click in the Browser</string>
+</resources>
